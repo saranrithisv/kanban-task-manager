@@ -13,16 +13,9 @@ A modern, responsive Kanban board built with pure HTML, CSS, and Vanilla JavaScr
 - **Responsive Design**: Works locally on both desktop and mobile screens
 - **Zero Dependencies**: Does not use React, Vue, jQuery, Tailwind, or any external libraries.
 
-## Screenshot
-
-*(Add your screenshot here)*
-`![Kanban Board Screenshot](./screenshot.png)`
-*(Suggestion: Capture a screenshot showing the board with a few sample tasks, perhaps while dragging one task to another column in dark mode for maximum flair.)*
-
 ## Live Demo
 
-*(Add link to your deployed app here once deployed)*
-`[View Live App](https://your-kanban-app-url.vercel.app)`
+https://project-fpce1.vercel.app?_vercel_share=cEBHu9Uc6hK0OBIYnNJd7J79UiUwYfTM
 
 ## Deployment Instructions
 
